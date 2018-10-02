@@ -1,0 +1,1 @@
+dotnet pack AutoMapper.Extensions\ -o ..\packages\ -c Release
